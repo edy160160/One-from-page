@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(113, 40, 161);
+}
+
+#punkti {
+    background-repeat: no-repeat;
+    height: 72px;
+    width: 165px;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+#punkti2 {
+    height: 191px;
+    width: 154px;
+    margin-left: 1380px;
+    margin-top: -68px;
+}
+
+#punkti3 {
+    height: 25px;
+    width: 97px;
+    margin-right: 1000px;
+    margin-top: -180px;
+}
+#punkti4 {
+    height: 175px;
+    width: 114px;
+    margin-right: 1200px;
+    margin-top: 80px;
+}
+#punkti5{
+    height: 165px;
+    width: 58px;
+    margin-left: 1440px;
+    margin-top: 0px;
+
+}
+#punkti6{
+    height: 25px;
+    width: 97px;
+    margin-left: 1400px;
+    margin-top: 0px;
+}
+
+
+.text {
+    text-align: center;
+    margin-top: -80px;
+    color: #ffff;
+    font-size: 70px;
+}
+
+.text2 {
+    text-align: center;
+    margin-top: 50px;
+    color: #ffff;
+    font-size: 20px;
+    border: 0px;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+.container {
+    color: #ffff;
+    text-align: center;
+
+}
+
