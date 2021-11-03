@@ -82,19 +82,34 @@ p{
    margin-right: 1100px;
    margin-left: 120px;
 }
-#poga{
-    
-        background-color: rgb(33, 36, 61);
-        position: absolute;
-        left: 56px;
-        top: 577px;
-        width: 322px;
-        height: 65px;
-        z-index: 220;
-       
-  
-      
+.myButton {
+	background-color:rgb(33, 36, 61);
+	-webkit-border-radius:17px;
+	-moz-border-radius:17px;
+	border-radius:17px;
+	border:1px solid #1f2f47;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:15px;
+	padding:13px 76px;
+	text-decoration:none;
+    margin-top: 100px;
+    margin-left: 120px;
 }
+.myButton:hover {
+	background-color:rgb(33, 36, 61);
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+    
+        
+        
+
 
 /*dsds
 .Home__Product__Promo__About__Contact {
